@@ -1,0 +1,672 @@
+Kinh Dương Vương
+Lạc Long Quân
+Hùng Quốc Vương
+Hùng Hiền Vương
+Hùng Lân Vương
+Hùng Diệp vương
+Hùng Hi vương
+Hùng Huy vương
+Hùng Chiêu vương
+Hùng Vĩ vương
+Hùng Định Vương
+Hùng Uy vương
+Hùng Trinh vương
+Hùng Vũ vương
+Hùng Việt vương
+Hùng Anh vương
+Hùng Triêu vương
+Hùng Tạo vương
+Hùng Nghị vương
+Hùng Duệ Vương
+Hùng Kính Vương
+An Dương Vương
+Triệu Vũ Vương
+Triệu Văn Vương
+Triệu Minh Vương
+Triệu Ai Vương
+Triệu Dương Vương
+Trưng Nữ Vương
+Lý Nam Đế
+Triệu Việt Vương
+Đào Lang Vương
+Hậu Lý Nam Đế
+Lý Sư Lợi
+Mai Hắc Đế
+Mai Thiếu Đế
+Bạch Đầu Đế
+Bố Cái Đại Vương
+Phùng An
+Khúc Tiên Chủ
+Khúc Trung Chủ
+Khúc Hậu Chủ
+Dương Đình Nghệ
+Kiều Công Tiễn
+Tiền Ngô Vương
+Dương Bình Vương
+Thiên Sách Vương
+Nam Tấn Vương
+Ngô Sứ Quân
+Đinh Tiên Hoàng
+Đinh Phế Đế
+Lê Đại Hành
+Lê Trung Tông
+Lê Ngoạ Triều
+Lý Thái Tổ
+Lý Thái Tông
+Lý Thánh Tông
+Lý Nhân Tông
+Lý Thần Tông
+Lý Anh Tông
+Lý Cao Tông
+Lý Thẩm
+Lý Huệ Tông
+Lý Nguyên Vương
+Lý Chiêu Hoàng
+Trần Thái Tông
+Trần Thánh Tông
+Trần Nhân Tông
+Trần Anh Tông
+Trần Minh Tông
+Trần Hiến Tông
+Trần Dụ Tông
+Dương Nhật Lễ
+Trần Nghệ Tông
+Trần Duệ Tông
+Trần Phế Đế
+Trần Thuận Tông
+Trần Thiếu Đế
+Hồ Quý Ly
+Hồ Hán Thương
+Giản Định Đế
+Trùng Quang Đế
+Trần Cảo
+Lê Thái Tổ
+Lê Thái Tông
+Lê Nhân Tông
+Lê Nghi Dân
+Lê Thánh Tông
+Lê Hiến Tông
+Lê Túc Tông
+Lê Uy Mục
+Lê Tương Dực
+Lê Quang Trị
+Lê Chiêu Tông
+Lê Bảng
+Lê Do
+Lê Cung Hoàng
+Mạc Thái Tổ
+Mạc Thái Tông
+Mạc Hiến Tông
+Mạc Chính Trung
+Mạc Tuyên Tông
+Mạc Mậu Hợp
+Mạc Toàn
+Mạc Kính Chỉ
+Mạc Kính Cung
+Mạc Kính Khoan
+Mạc Kính Vũ
+Mạc Nguyên Thanh
+Mạc Kính Quang
+Lê Trang Tông
+Lê Trung Tông
+Lê Anh Tông
+Lê Thế Tông
+Lê Kính Tông
+Lê Thần Tông
+Lê Chân Tông
+Lê Huyền Tông
+Lê Gia Tông
+Lê Hy Tông
+Lê Dụ Tông
+Lê Duy Phường
+Lê Thuần Tông
+Lê Ý Tông
+Lê Hiển Tông
+Lê Mẫn Đế
+Chúa Trịnh
+Trịnh Kiểm
+Trịnh Cối
+Trịnh Tùng
+Trịnh Tráng
+Trịnh Tạc
+Trịnh Căn
+Trịnh Cương
+Trịnh Giang
+Trịnh Doanh
+Trịnh Sâm
+Trịnh Cán
+Trịnh Khải
+Trịnh Bồng
+Chúa Nguyễn
+Nguyễn Hoàng
+Nguyễn Phúc Nguyên
+Nguyễn Phúc Lan
+Nguyễn Phúc Tần
+Nguyễn Phúc Thái
+Nguyễn Phúc Chu
+Nguyễn Phúc Chú
+Nguyễn Phúc Khoát
+Nguyễn Phúc Thuần
+Nguyễn Phúc Dương
+Nguyễn Phúc Ánh
+Lê Trang Tông
+Lê Trung Tông
+Lê Anh Tông
+Lê Thế Tông
+Lê Kính Tông
+Lê Thần Tông
+Lê Chân Tông
+Lê Huyền Tông
+Lê Gia Tông
+Lê Hy Tông
+Lê Dụ Tông
+Lê Duy Phường
+Lê Thuần Tông
+Lê Ý Tông
+Lê Hiển Tông
+Lê Mẫn Đế
+Chúa Trịnh
+Trịnh Kiểm
+Trịnh Cối
+Trịnh Tùng
+Trịnh Tráng
+Trịnh Tạc
+Trịnh Căn
+Trịnh Cương
+Trịnh Giang
+Trịnh Doanh
+Trịnh Sâm
+Trịnh Cán
+Trịnh Khải
+Trịnh Bồng
+Chúa Nguyễn
+Nguyễn Hoàng
+Nguyễn Phúc Nguyên
+Nguyễn Phúc Lan
+Nguyễn Phúc Tần
+Nguyễn Phúc Thái
+Nguyễn Phúc Chu
+Nguyễn Phúc Chú
+Nguyễn Phúc Khoát
+Nguyễn Phúc Thuần
+Nguyễn Phúc Dương
+Nguyễn Phúc Ánh
+Thái Đức
+Quang Trung
+Nguyễn Quang Toản
+Gia Long
+Minh Mạng
+Thiệu Trị
+Tự Đức
+Dục Đức
+Hiệp Hoà
+Kiến Phúc
+Hàm Nghi
+Đồng Khánh
+Thành Thái
+Duy Tân
+Khải Định
+Bảo Đại
+An Dương Vương
+An Tiêm
+Âu Cơ
+Bạch Thái Bưởi
+Bảo Đại
+Bát Nàn Tướng Quân
+Bế Văn Đàn
+Bùi Bằng Đoàn
+Bùi Hữu Nghĩa
+Bùi Kỷ
+Bùi Quốc Khái
+Bùi Thị Cúc
+Bùi Thị Xuân
+Bùi Viện
+Ca Văn Thỉnh
+Cảnh Thịnh
+Cao Bá Đạt
+Cao Bá Quát
+Cao Thắng
+Cao Xuân Huy
+Cao Xuân Quế
+Châu Thị Tế  
+Châu Văn Liêm
+Chế Lan Viên
+Chu Văn An
+Cù Chính Lan
+Cù Huy Cận
+Đàm Ngọc Lưu
+Đặng Huy Trứ
+Đặng Thai Mai
+Đặng Thùy Trâm
+Đặng Văn Minh
+Đặng Văn Ngữ
+Đặng Việt Châu
+Đặng Xuân Khu
+Đặng Xuân Thiều
+Đào Duy Từ
+Đinh Bộ Lĩnh
+Đinh Công Tráng
+Đinh Liễn
+Đinh Tiên Hoàng
+Đinh Trọng Vĩnh
+Đỗ Mười
+Đỗ Nhuận
+Đỗ Xuân Hợp
+Đoàn Đắc Khanh
+Đoàn Khuê
+Đoàn Thị Điểm
+Đoàn Văn Ưu
+Đồng Khánh
+Lê Dụ Tông
+Dục Đức
+Dương Bích Liên
+Dương Diên Nghệ
+Dương Khuê
+Dương Mạc Thạch
+Dương Quảng Hàm
+Dương Quốc Chính
+Dương Tam Kha
+Dương Thị Xuân
+Dương Văn Minh
+Dương Vân Nga
+Duy Tân
+Gia Long Hoàng đế
+Gia Tông
+Giản Định Đế
+Giang Văn Minh
+Giáp Văn Cương
+Hạ Bá Cang
+Hà Huy Giáp
+Hà Huy Tập
+Hà Thị Xanh
+Hàm Nghi
+Hiệp Hòa
+Hồ Chí Minh
+Hồ Hán Thương
+Hồ Huân Nghiệp
+Hồ Quý Ly
+Hồ Qúy Ly
+Hồ Thị Cúc
+Hồ Tùng Mậu
+Hồ Văn Huê
+Hoàng Diệu
+Hoàng Hoa Thám
+Hoàng Mậu
+Hoàng Minh Giám
+Hoàng Ngọc Phách
+Hoàng Phú Sổ
+Hoàng Quốc Việt
+Hoàng Sâm
+Hoàng Văn Thiệu
+Hoàng Văn Thụ
+Hoàng Văn Thái
+Hoàng Xuân Hãn
+Hồng Bàng
+Hồng Quang
+Hùng Vương
+Huyền Trân Công Chúa
+Huỳnh Phú Sổ
+Huỳnh Tấn Phát
+Huỳnh Thúc Kháng
+Khải Định
+Khúc Hạo
+Khúc Thừa Dụ
+Khúc Thừa Mỹ
+Kiến Phúc
+Kiều Công Tiễn
+Kinh Dương Vương
+Lạc Long Quân
+Lê Anh Tông
+Lê Bá Ly
+Lê Bang Cơ
+Lê Chân Tông
+Lê Chân
+Lê Chiêu Thống
+Lê Chiêu Tông
+Lê Cung Hoàng
+Lê Đại Hành
+Lê Duẩn
+Lê Đức Anh
+Lê Đức Thọ
+Lê Duy Bang
+Lê Duy Đàm
+Lê Duy Đào
+Lê Duy Đường
+Lê Duy Hội
+Lê Duy Hợp
+Lê Duy Hựu
+Lê Duy Huyên
+Lê Duy Mật
+Lê Duy Phường
+Lê Gia Tông
+Lê Hi Tông
+Lê Hiến Mai
+Lê Hiển Tông
+Lê Hoàn
+Lê Hồng Phong
+Lê Hồng Sơn
+Lê Hữu Trác
+Lê Huyền Tông
+Lê Khả Phiêu
+Lê Kính Tông
+Lê Lai
+Lê Lợi
+Lê Long Đĩnh
+Lê Long Đỉnh
+Lê Long Việt
+Lê Mẫn Đế
+Lê Nghi Dân
+Lê Nhân Tông
+Lê Phụ Trần
+Lê Qúy Đôn
+Lê Thái Tổ
+Lê Thái Tông
+Lê Thần Tông
+Lê Thánh Tông
+Lê Thế Tông
+Lê Thị Hồng Gấm
+Lê Thị Ngọc Hân
+Lê Thị Riêng
+Lê Thuần Tông
+Lê Trang Tông
+Lê Trọng Tấn
+Lê Trung Hưng
+Lê Trung Tông
+Lê Tư Thành
+Lê Túc Tông
+Lê Tương Dực
+Lê Uy Mục
+Lê Văn Duyệt
+Lê Văn Hưu
+Lê Văn Lương
+Lê Văn Sĩ
+Lê Ý Tông
+Lý Anh Tông
+Lý Bôn
+Lý Cao Tông
+Lý Chiêu Hoàng
+Lý Công Uẩn
+Lý Huệ Tông
+Lý Nhân Tông
+Lý Nhân Tông
+Lý Thái Tổ
+LÝ THÁI TÔNG
+Lý Thái Tông
+Lý Thần Tông
+Lý Thần Tông
+Lý Thánh Tông
+Lý Thường Kiệt
+Lý Tự Trọng
+Mạc Cửu
+Mạc Đăng Doanh
+Mạc Đăng Dung
+Mạc Mậu Hợp
+Mạc Phúc Hải
+Mạc Phúc Nguyên
+Mạc Thái Tổ
+Mai Hắc Đế
+Mai Thúc Loan
+Mai Văn Chung
+Minh Mệnh
+Nam Cao
+Nam Việt Đế
+Ngô Bệ
+Ngô Đình Diệm
+Ngô Gia Tự
+Ngô Quyền
+Ngô Thị Nhậm
+Ngô Vi Liễn
+Ngô Xương Ngập
+Ngô Xương Văn
+Nguyễn An Ninh
+Nguyễn Bá Lân
+Nguyễn Bá Ngọc
+Nguyễn Bình
+Nguyễn Bỉnh Khiêm
+Nguyễn Chí Thanh
+Nguyễn Cơ Thạch
+Nguyễn Công Hoan
+Nguyễn Công Trứ
+Nguyễn Cư Trinh
+Nguyễn Đình Chiểu
+Nguyễn Đình Chiểu
+Nguyễn Đình Thi
+Nguyễn Du
+Nguyễn Đức Cảnh
+Nguyễn Duy Trinh
+Nguyễn Gia Thiều
+Nguyễn Hàm Ninh
+Nguyễn Hoàng Tôn
+Nguyễn Hoàng
+Nguyên Hồng
+Nguyễn Huệ
+Nguyễn Hữu Cảnh
+Nguyễn Hữu Chỉnh
+Nguyễn Hữu Dật
+Nguyễn Hữu Độ
+Nguyễn Hữu Huân
+Nguyễn Hữu Thận
+Nguyễn Hữu Thọ
+Nguyễn Hữu Tiến
+Nguyễn Huy Hổ
+Nguyễn Huy Óanh
+Nguyễn Huy Tự
+Nguyễn Huy Tưởng
+Nguyễn Khắc Nhu
+Nguyễn Khánh Toàn
+Nguyễn Khuyến
+Nguyễn Kim Thành
+Nguyễn Minh Châu
+Nguyễn Nghiễm
+Nguyễn Nhạc
+Nguyễn Phạm Tuân
+Nguyễn Phan Chánh
+Nguyễn Phan Vinh
+Nguyễn Phúc Ánh
+Nguyễn Phúc Bửu Lân
+Nguyễn Phúc Cảnh
+Nguyễn Phúc Chu
+Nguyễn Phúc Đảm
+Nguyễn Phúc Hồng Nhậm
+Nguyễn Phúc Khoát
+Nguyễn Phúc Lan
+Nguyễn Phúc Nguyên
+Nguyễn Phúc Tần
+Nguyễn Phúc Thái
+Nguyễn Phúc Thụ
+Nguyễn Phúc Thuần
+Nguyễn Phúc Ưng Ái
+Nguyễn Phúc Ung Châu
+Nguyễn Phúc Ung Ki
+Nguyễn Phúc Ung Lịch
+Nguyễn Phúc Ưng Thị
+Nguyễn Phúc Vĩnh San
+Nguyễn Phước Ánh
+Nguyễn Quán Nho
+Nguyễn Quang Toản
+Nguyễn Sinh Sắc
+Nguyễn Tất Thành
+Nguyễn Thái Bình
+Nguyễn Thái Học
+Nguyễn Thị Định
+Nguyễn Thị Minh Khai
+Nguyễn Thị Nghĩa
+Nguyễn Thị Nhỏ
+Nguyễn Thị Rành
+Nguyễn Thị Xuân
+Nguyễn Thiện Thuật
+Nguyễn Trãi
+Nguyễn Tri Phương
+Nguyễn Trọng Nhâm
+Nguyễn Trung Trực
+Nguyễn Trường Tộ
+Nguyễn Tuân
+Nguyễn Tường Loan
+Nguyễn Văn Cừ
+Nguyễn Văn Đồi
+Nguyễn Vạn Hạnh
+Nguyễn Văn Hưởng
+Nguyễn Văn Khiết
+Nguyễn Văn Linh
+Nguyễn Văn Nguyễn
+Nguyễn Văn Siêu
+Nguyễn Văn Tạo
+Nguyễn Văn Thiệu
+Nguyễn Văn Thoại
+Nguyễn Văn Trỗi
+Nguyễn Việt Hồng
+Nguyễn Viết Xuân
+Nguyễn Xiển
+Nguyễn Xuân Khoát
+Nhân Tông
+Ông Bích Khiêm
+Phạm Bá Tuy
+Phạm Bạch Hổ
+Phạm Công Trứ
+Phạm Đình Hỗ
+Phạm Hồng Thái
+Phạm Huy Thông
+Phạm Ngọc Thạch
+Phạm Ngọc Thảo
+Phạm Ngũ Lão
+Phạm Nhữ Tăng
+Phạm Phú Thứ
+Phạm Tài Luyện
+Phạm Thái
+Phạm Thận Duật
+Phạm Thị Hằng
+Phạm Tuấn Tài
+Phạm Văn Chiêu
+Phạm Văn Đồng
+Phạm Văn Duyệt
+Phạm Văn Khoa
+Phạm Viết Chánh
+Phan Bá Vành
+Phan Bội Châu
+Phan Chu Trinh
+Phan Đăng Lưu
+Phan Đình Bình
+Phan Đình Giót
+Phan Đình Phùng
+Phan Đình Phùng
+Phan Huy Chú
+Phan Huy Ích
+Phan Huy Ôn
+Phan Huy Thực
+Phan Thanh Giản
+Phan Trọng Tuệ
+Phan Văn Khải
+Phan Văn Trường
+Phan Xích Long
+Phó Đức Chính
+Phùng Chí Kiên
+Phùng Hưng
+Phùng Khắc Khoan
+Quách Thị Hồ
+Thái Đức Hoàng Đế
+Thái Văn Lung
+Thành Thái
+Thế Tông
+Thích Minh Nguyệt
+Thích Quảng Đức
+Thiệu Trị
+Tô Hiến Thành
+Tô Hiệu
+Tố Hữu
+Tô Ký
+Tô Ngọc Vân
+Tô Vĩnh Diện
+Tôn Đức Thắng
+Tôn Quang Phiệt
+Tôn Thất Thuyết
+Tôn Thất Tùng
+Tống Duy Tân
+Trần Anh Tông
+Trần Bình Trọng
+Trần Cảnh
+Trần Cao Vân
+Trần Đại Nghĩa
+Trần Đăng Ninh
+Trần Đình Xu
+Trần Đức Lương
+Trần Hạo
+Trần Hiến Tông
+Trần Hoảng
+Trần Huy Liệu
+Trần Khâm
+Trần Kiên
+Trần Kính
+Trần Liễu
+Trần Minh Tông
+Trần Nguyên Đán
+Trần Nguyên Hãn
+Trần Nhật Duật
+Trần Phế Đế
+Trần Phú
+Trần Phủ
+Trần Quang Diệu
+Trần Quang Khải
+Trần Quốc Toản
+Trần Quốc Tuấn
+Trần Quý Hai
+Trần Thị Hường
+Trần Thị Rạng
+Trần Thiếu Đế
+Trần Thủ Độ
+Trần Thuận Tông
+Trần Trọng Khiêm
+Trần Trọng Kim
+Trần Tướng Công
+Trần Văn Giàu
+Trần Văn Kỳ
+Trần Văn Quang
+Trần Văn Thành
+Trần Văn Trà
+Trần Vǎn Ơn
+Trần Xuân Soạn
+Trần Xuân Soạn
+Triệu Quang Phục
+Triệu Thị Trinh
+Trịnh Bồng
+Trịnh Căn
+Trịnh Cán
+Trịnh Cương
+Trịnh Đình Cửu
+Trịnh Đình Thảo
+Trịnh Doanh
+Trịnh Giang
+Trịnh Hoài Đức
+Trịnh Khải
+Trịnh Kiểm
+Trịnh Lỗi
+Trịnh Sâm
+Trịnh Tạc
+Trịnh Thị Miếng
+Trịnh Tông
+Trịnh Tráng
+Trịnh Tùng
+Trùng Quang Đế
+Trưng Trắc
+Trường Chinh
+Trương Định
+Trương Hán Siêu
+Trương Vĩnh Ký
+Tự Đức
+Vạn Hạnh
+Văn Tiến Dũng
+Võ Chí Công
+Võ Duy Dương
+Võ Nguyên Giáp
+Võ Thị Hà
+Võ Thị Hợi
+Võ Thị Nhã
+Võ Thị Sáu
+Võ Thị Tần
+Võ Trường Toản
+Võ Văn Kiệt
+Vũ Thị Thục
+Vũ Trinh
+Xuân Diệu
+Xuân Thủy
+Ỷ Lan
+Yết Kiêu
