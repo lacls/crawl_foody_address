@@ -1,0 +1,87 @@
+06/06/2021 12:53:04 - INFO - root -    Num Comments = 10
+06/06/2021 12:53:04 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:04 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:05 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:05 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:05 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:06 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:06 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:06 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:07 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:07 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:07 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:08 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:08 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:08 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:08 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:09 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:09 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:09 - INFO - root -    Num Comments = 17
+06/06/2021 12:53:10 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:10 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:10 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:10 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:11 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:11 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:11 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:12 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:12 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:12 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:12 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:13 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:13 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:13 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:13 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:14 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:14 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:14 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:15 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:15 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:15 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:15 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:16 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:16 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:16 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:16 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:17 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:17 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:17 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:17 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:18 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:18 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:19 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:19 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:19 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:20 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:20 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:21 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:21 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:22 - INFO - root -    Num Comments = 25
+06/06/2021 12:53:22 - INFO - root -    Num Comments = 25
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867abd130>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/url
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867aaea60>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/url
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867aae160>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/url
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa8680a45b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/window
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa8680a4550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/window
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa8680a44c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/window
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867b6bee0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/log/types
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867b6b5e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/log/types
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867b6b610>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/log/types
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867c89550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/orientation
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867c89dc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/orientation
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867c897f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/orientation
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867c892e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/source
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867c89430>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/source
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867c89250>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/source
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867ca1580>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/title
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867ca1a60>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/title
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867cbff40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/title
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867cbfb50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/window/handles
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867cbf5b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/window/handles
+06/06/2021 12:56:40 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867ca12b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c0281406741ef1a1c4623740a54f8318/window/handles
+06/06/2021 13:01:59 - INFO - root -   bla bla
+06/06/2021 13:02:10 - INFO - root -   loi
+06/06/2021 13:02:10 - INFO - root -   bla bla
+06/06/2021 13:21:22 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867cd56d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/420c2665d0b5cf3daf54b466ad2ece35/execute/sync
+06/06/2021 13:21:22 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa86581f490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/420c2665d0b5cf3daf54b466ad2ece35/execute/sync
+06/06/2021 13:21:22 - WARNING - urllib3.connectionpool -   Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa867b55b80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/420c2665d0b5cf3daf54b466ad2ece35/execute/sync
